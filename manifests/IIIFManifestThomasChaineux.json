@@ -1,0 +1,349 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://dev.gdmrdigital.com/manifests/1245635613/121961717/1140080cce01dd7b8fc754de0b296d94.json",
+  "@type" : "sc:Manifest",
+  "label" : "Picasso's Guernica at work, by Dora Maar",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A serie of ten documentary, vintage photographs taken by Dora Maar in Pablo Picasso's studio in Paris in May-June 1937, as requested by Christian Zervos for the publication of the twelfth issue of Cahiers d'Art journal",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Photo (C) RMN-Grand Palais (Musée national Picasso-Paris)",
+  "sequences" : [ {
+    "@id" : "http://9a017cd7-c50b-4ed2-a1bf-5dba0965f408",
+    "@type" : "sc:Sequence",
+    "viewingHint" : "paged",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://056333db-864b-4f08-bcc8-72d4b3a27616",
+      "@type" : "sc:Canvas",
+      "label" : "Ier état",
+      "viewingHint" : "non-paged",
+      "height" : 545,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6331d2e9-420c-4ec2-84db-f75fa1f5adb9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-i-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-i-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 545,
+          "width" : 758
+        },
+        "on" : "http://056333db-864b-4f08-bcc8-72d4b3a27616"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/f72282325a2db3a7a47ce462cb152d01.json",
+        "label" : "Annotations for canvas Ier état"
+      } ]
+    }, {
+      "@id" : "http://3d60c6cf-03a2-45d5-94cf-1d9c47022f8e",
+      "@type" : "sc:Canvas",
+      "label" : "Ier état bis",
+      "viewingHint" : "non-paged",
+      "height" : 532,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eee46e64-0002-4c91-9522-d912ee1991bc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-i-bis-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-i-bis-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 532,
+          "width" : 758
+        },
+        "on" : "http://3d60c6cf-03a2-45d5-94cf-1d9c47022f8e"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/a24a387fbfe0b5f63dc01eeb3329d67d.json",
+        "label" : "Annotations for canvas Ier état bis"
+      } ]
+    }, {
+      "@id" : "http://ab6c0302-01df-46fd-a2b8-d2b4ad21a22b",
+      "@type" : "sc:Canvas",
+      "label" : "IIe état",
+      "viewingHint" : "non-paged",
+      "height" : 533,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7ceabe29-002a-4241-97df-78ee2128fb63",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-ii-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-ii-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 533,
+          "width" : 758
+        },
+        "on" : "http://ab6c0302-01df-46fd-a2b8-d2b4ad21a22b"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/979f00f18b28586993e01332c814cc2b.json",
+        "label" : "Annotations for canvas IIe état"
+      } ]
+    }, {
+      "@id" : "http://1a76ce59-6d17-43f3-9bd8-924e0e7ad204",
+      "@type" : "sc:Canvas",
+      "label" : "IIe état bis",
+      "viewingHint" : "non-paged",
+      "height" : 507,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://76d7ce22-27bd-421e-8a5f-18c28093cc48",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-ii-bis-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-ii-bis-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 507,
+          "width" : 758
+        },
+        "on" : "http://1a76ce59-6d17-43f3-9bd8-924e0e7ad204"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/5b1e32b7872f0f8299a15e7bcaae2250.json",
+        "label" : "Annotations for canvas IIe état bis"
+      } ]
+    }, {
+      "@id" : "http://493ae48a-3d32-4e6d-a37e-d1de7069bf9a",
+      "@type" : "sc:Canvas",
+      "label" : "IIIe état",
+      "viewingHint" : "non-paged",
+      "height" : 535,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://283d3886-d40e-40cc-8754-027887402b6c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-iii-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-iii-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 535,
+          "width" : 758
+        },
+        "on" : "http://493ae48a-3d32-4e6d-a37e-d1de7069bf9a"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/0b739537771f2e11fea9297416849d84.json",
+        "label" : "Annotations for canvas IIIe état"
+      } ]
+    }, {
+      "@id" : "http://49dfbef2-7eb5-4e8b-a9d9-1cc4e8bb6ec3",
+      "@type" : "sc:Canvas",
+      "label" : "IVe état",
+      "viewingHint" : "non-paged",
+      "height" : 526,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f427d38b-0a84-4bed-a39a-8bc8b87d0ad4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-iv-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-iv-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 526,
+          "width" : 758
+        },
+        "on" : "http://49dfbef2-7eb5-4e8b-a9d9-1cc4e8bb6ec3"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/c2d2f26af7fdb478806163b8ce72a283.json",
+        "label" : "Annotations for canvas IVe état"
+      } ]
+    }, {
+      "@id" : "http://144db086-892f-4f53-8c73-9a08525a760b",
+      "@type" : "sc:Canvas",
+      "label" : "Ve état",
+      "viewingHint" : "non-paged",
+      "height" : 578,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://94d8acf0-7257-49bc-b4ad-08fc21080a18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-v-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-v-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 578,
+          "width" : 758
+        },
+        "on" : "http://144db086-892f-4f53-8c73-9a08525a760b"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/e1a773dbe35fef68193008e8d1cd6108.json",
+        "label" : "Annotations for canvas Ve état"
+      } ]
+    }, {
+      "@id" : "http://19f7254d-d176-452a-9af7-9c196c0cd12c",
+      "@type" : "sc:Canvas",
+      "label" : "VIe état",
+      "viewingHint" : "non-paged",
+      "height" : 599,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c186a7a5-13b9-40a4-a3ff-338fc10ce519",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-vi-image_202301/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-vi-image_202301",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 599,
+          "width" : 758
+        },
+        "on" : "http://19f7254d-d176-452a-9af7-9c196c0cd12c"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/4219a5e7e41e9313e8339e4e238958e3.json",
+        "label" : "Annotations for canvas VIe état"
+      } ]
+    }, {
+      "@id" : "http://8b9d372c-d432-474d-b86c-3b76643c4def",
+      "@type" : "sc:Canvas",
+      "label" : "VIIe état",
+      "viewingHint" : "non-paged",
+      "height" : 603,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9c5d6b65-eba6-423d-baf1-454b40c7bf00",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-vii-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-vii-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 603,
+          "width" : 758
+        },
+        "on" : "http://8b9d372c-d432-474d-b86c-3b76643c4def"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/e96e4f35a9ece5143f7f84cb2269b0d5.json",
+        "label" : "Annotations for canvas VIIe état"
+      } ]
+    }, {
+      "@id" : "http://09237481-ee9d-47eb-9bca-55bd3e567ed2",
+      "@type" : "sc:Canvas",
+      "label" : "VIIIe état",
+      "viewingHint" : "non-paged",
+      "height" : 599,
+      "width" : 758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://38c41dc3-6bea-4604-a04d-997307750889",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-viii-image/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/iiif-assignment-viii-image",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 599,
+          "width" : 758
+        },
+        "on" : "http://09237481-ee9d-47eb-9bca-55bd3e567ed2"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/121961717/1fe1a8888a53bd2625d61306a6e40539.json",
+        "label" : "Annotations for canvas VIIIe état"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/121961717/1140080cce01dd7b8fc754de0b296d94/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
